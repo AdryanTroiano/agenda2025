@@ -1,3 +1,8 @@
-body{
-    background-color: black;
-}
+:root {
+    --fundo: rgb(240, 240, 240);
+    
+  }
+  
+  body{
+    background-color: var(--fundo);
+  }
